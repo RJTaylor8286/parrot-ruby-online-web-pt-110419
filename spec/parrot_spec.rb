@@ -1,3 +1,1 @@
-def bird
-  print parrot
-end
+bird = 
