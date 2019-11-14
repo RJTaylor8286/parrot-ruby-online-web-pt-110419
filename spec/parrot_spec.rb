@@ -1,1 +1,3 @@
-bird = "parrot"
+def bird
+  puts "parrot"
+end
